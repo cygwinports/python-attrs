@@ -1,0 +1,13 @@
+inherit python-wheel
+
+NAME="python-attrs"
+VERSION=16.3.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python attributes without boilerplate"
+DESCRIPTION="attrs is the Python package that will bring back the joy of writing
+classes by relieving you from the drudgery of implementing object protocols
+(aka dunder methods). Its main goal is to help you to write concise and correct
+software without slowing down your code."
+
+ARCH=noarch
