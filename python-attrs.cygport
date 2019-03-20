@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-attrs"
-VERSION=16.3.0
+VERSION=19.1.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python attributes without boilerplate"
